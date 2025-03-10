@@ -2,3 +2,14 @@
 torch
 torchvision
 torchaudio
+--index-url https://pypi.org/simple
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+seaborn
+jupyter
+tqdm
+pyarrow
+requests

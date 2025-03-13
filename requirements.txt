@@ -13,3 +13,7 @@ jupyter
 tqdm
 pyarrow
 requests
+statsmodels
+prophet
+torchsummary
+torchinfo

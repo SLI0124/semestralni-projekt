@@ -16,3 +16,6 @@ statsmodels
 prophet
 torchsummary
 torchinfo
+torchview
+torchviz
+graphviz
